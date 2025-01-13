@@ -1,0 +1,24 @@
+/*selector + propiedad + valor
+
+selector {
+propiedad: valor
+
+}
+*/
+body { background-color: rgba(137, 43, 226, 0.419) ;}
+title { color:rgba(255, 0, 128, 0.701);
+
+}
+h1 {color:rgba(255, 0, 128, 0.701);
+    font-size: xx-large;
+    text-align: center;
+font-style: italic;
+
+}
+
+p{
+    color:rgba(255, 0, 128, 0.555);
+    font-size: large;
+    text-align: center;
+
+}

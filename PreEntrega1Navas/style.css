@@ -1,0 +1,94 @@
+/*selector + propiedad + valor
+
+selector {
+propiedad: valor
+
+}
+*/
+body { background-color: #f299d3 ;}
+
+h1 {color: #681a73 ;
+    font-size: xx-large;
+    text-align: center;    
+}
+h2 {color:#681a73;
+    font-family: sans-serif;
+    text-align: justify;
+
+}
+h3 {color:#681a73;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: left;    
+}
+img {max-width: 100%;
+    max-height: 100%;
+    }
+title {font-family: sans-serif;
+    color:#681a73 ;
+}
+
+p {font-family: sans-serif  ;
+    color: #681a73 ;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: justify;    
+}
+a {color: #f2059f;
+}
+.ubicacion {
+    display: flex;
+    flex-direction: row
+}
+
+.mapa { 
+    padding: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 60px;
+}
+.compra {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+.pedidosya {
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+}
+.rappi {
+    width: 120px;
+    height: 120px;
+    margin: 30px;
+}
+.contactenos {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+
+.ig {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+
+}
+.whatsapp {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+
+}
+.facebook {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+
+}
